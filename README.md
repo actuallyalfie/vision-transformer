@@ -1,0 +1,1 @@
+Vision Transformer (ViT) implementation from first principles in PyTorch. Built from scratch without pre-built transformer libraries.
